@@ -1,3 +1,3 @@
 function hideWhenClicked(click) {
-  click.className += " hidden";
+  click.className += display: none;
 }
