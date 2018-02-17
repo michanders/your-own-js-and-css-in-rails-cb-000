@@ -1,9 +1,6 @@
 
 .error {
-  body {
     color: red;
-    text-decoration: none;
-  }
 }
 
 .cool-background {
