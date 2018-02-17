@@ -4,7 +4,4 @@ function hideWhenClicked(){
   if (hide.style.display !== "none"){
     hide.style.display = "none";
   }
-  else {
-    hide.style.display = "none";
-  }
-}
+};
