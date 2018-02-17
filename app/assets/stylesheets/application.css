@@ -12,4 +12,6 @@
  *
  *= require_self
  *= require links
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
  */
