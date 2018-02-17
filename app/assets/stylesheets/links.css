@@ -8,3 +8,7 @@
     background: grey;
   }
 }
+
+.hidden {
+  display: none;
+}
