@@ -5,3 +5,9 @@
     text-decoration: none;
   }
 }
+
+.cool-background {
+  body {
+    background: grey;
+  }
+}
