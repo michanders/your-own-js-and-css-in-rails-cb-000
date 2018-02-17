@@ -12,6 +12,7 @@
  *
  *= require_self
  *= require links
+ *= require main
  @import "bootstrap-sprockets";
  @import "bootstrap";
  */
