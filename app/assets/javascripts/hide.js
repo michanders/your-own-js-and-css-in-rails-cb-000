@@ -1,3 +1,3 @@
-function hideWhenClicked(clicked) {
-  clicked.className += " hidden"
+function hideWhenClicked(click) {
+  click.className += " hidden"
 }
